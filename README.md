@@ -14,19 +14,6 @@ Ubuntu and Debian Docker images of Zing are available in the following repositor
   * [smetsys1uza/zing][7]
   * [smetsys1uza/zing-debian][6]
 
-Tags and `Dockerfile` links
-===========================
-
-Most Recent
------------
-
-The Zing smetsys1uza/zing repository provides various Centos Docker image tags. The most recent Zing versions of OpenJDK 11 and 8 are listed below:
-
- * [`11-19.07.0.0-4`, `11-19.07`, `11`][84]
-
- * [`8-19.07.0.0-4`, `8-19.07`, `8`, `latest`][53]
-
-
 Usage
 =====
 
